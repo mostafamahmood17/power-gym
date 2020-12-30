@@ -1,0 +1,45 @@
+.imageOne{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../../Asset/hipcravo-5UbIqV58CW8-unsplash_50.jpg);
+    height:300px;
+    width:300px; 
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    margin:50px;
+    border-radius: 2%;
+    
+}
+
+.imageOne:hover{
+    transform: scale(1.1);
+    transition: 1s
+}
+
+.imageTwo{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../../Asset/daniel-apodaca-WdoQio6HPVA-unsplash_25.jpg);
+    height:300px;
+    width:300px; 
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    margin:50px;
+    border-radius: 2%;
+}
+
+.imageTwo:hover{
+    transform: scale(1.1);
+    transition: 1s
+}
+
+.imageThree{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url(../../Asset/penguinuhh-8VI6WwEEEHw-unsplash_31.jpg);
+    height:300px;
+    width:300px; 
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    margin:50px;
+    border-radius: 2%;
+}
+
+.imageThree:hover{
+    transform: scale(1.1);
+    transition: 1s
+}
